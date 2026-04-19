@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Erdem 👋
+
+I work across the full web development stack, bridging the gap between robust backend architecture and reactive frontend experiences.
+
+### 🛠 My Technical Stack
+* **Backend:** PHP (Laravel), C, Go, Java.
+* **Frontend:** JavaScript, Vue, Vuetify.
+* **Infrastructure:** Docker
 
 <!--
 **celikerde/celikerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
