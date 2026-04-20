@@ -1,25 +1,25 @@
-## Hi, I'm Erdem 👋
+# Hi, I'm Erdem 👋
 
-I work across the full web development stack, bridging the gap between robust backend architecture and reactive frontend experiences.
+I'm a Full-Stack Developer focused on building robust backend architectures and reactive frontend experiences. I enjoy bridging the gap between complex logic and intuitive user interfaces.
 
-* **Backend:** PHP (Laravel), C, Go, Java.
-* **Frontend:** JavaScript, Vue, Vuetify.
-  
-* I'm working on [![Repository](https://img.shields.io/badge/@unusualify/modularous-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unusualify/modularous)
-* I'm currently following the Back-end Developer path on [![Boot.dev](https://img.shields.io/badge/Boot.dev-8A2BE2?style=flat&logo=compter&logoColor=white)](https://www.boot.dev)
-* You can follow me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@celikerde-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/celikerde)
+---
 
-<!--
-**celikerde/celikerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | `PHP` `Laravel` `Go` `C` `Java` |
+| **Frontend** | `JavaScript` `Vue.js` `Vuetify` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects & Learning
+
+* **Current Project:** I'm developing [![Modularous](https://img.shields.io/badge/@unusualify/modularous-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/unusualify/modularous) — a Laravel & Vuetify-powered tool enhancing the full-stack DX.
+* **Education:** I'm currently mastering the **Back-end Developer Path** on [![Boot.dev](https://img.shields.io/badge/Boot.dev-8A2BE2?style=flat-square&logo=curriculum&logoColor=white)](https://www.boot.dev)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@celikerde-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/celikerde)
