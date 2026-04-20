@@ -2,10 +2,12 @@
 
 I work across the full web development stack, bridging the gap between robust backend architecture and reactive frontend experiences.
 
-### 🛠 My Technical Stack
 * **Backend:** PHP (Laravel), C, Go, Java.
 * **Frontend:** JavaScript, Vue, Vuetify.
 * **Infrastructure:** Docker
+* I'm working on [![Repository](https://img.shields.io/badge/@unusualify/modularous-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unusualify/modularous)
+* I'm currently following the Back-end Developer path on [![Boot.dev](https://img.shields.io/badge/Boot.dev-8A2BE2?style=flat&logo=compter&logoColor=white)](https://www.boot.dev)
+* You can follow me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@celikerde-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/celikerde)
 
 <!--
 **celikerde/celikerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
