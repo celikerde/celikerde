@@ -4,7 +4,6 @@ I work across the full web development stack, bridging the gap between robust ba
 
 * **Backend:** PHP (Laravel), C, Go, Java.
 * **Frontend:** JavaScript, Vue, Vuetify.
-* **Infrastructure:** Docker
   
 * I'm working on [![Repository](https://img.shields.io/badge/@unusualify/modularous-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unusualify/modularous)
 * I'm currently following the Back-end Developer path on [![Boot.dev](https://img.shields.io/badge/Boot.dev-8A2BE2?style=flat&logo=compter&logoColor=white)](https://www.boot.dev)
